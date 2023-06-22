@@ -6,6 +6,9 @@
 
 ### Fixes
 
+- [#7758](https://github.com/blockscout/blockscout/pull/7758) - Remove limit for configurable fetchers
+- [#7764](https://github.com/blockscout/blockscout/pull/7764) - Fix missing ranges insertion and deletion logic
+
 ### Chore
 
 <details>
